@@ -3,10 +3,10 @@ import { Link } from 'react-router-dom';
 
 const Singup = () => {
     return (
-        <div className='flex justify-center items-center mt-8 my-14'>
+        <div className='flex justify-center items-center mt-6 my-14'>
         <div className="card w-96 bg-base-100 shadow-xl">
             <div className="card-body">
-                <h2 className="text-center text-2xl font-bold">Sign Up</h2>
+                <h2 className="text-center text-2xl text-red-400 font-bold">Sign Up</h2>
                 <form>
 
                     <div className="form-control w-full max-w-xs">
