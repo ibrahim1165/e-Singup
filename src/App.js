@@ -1,11 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
+import Singup from './Pages/Singup';
 
 function App() {
   return (
-    <div>
-   
-    </div>
+    <>
+   <Singup />
+    </>
   );
 }
 
